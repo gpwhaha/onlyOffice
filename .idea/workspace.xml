@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OnlineEditorsExampleJava:war" />
+      <artifact name="OnlineEditorsExampleJava:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1c2bde-2148-4012-a73c-806a4e20c126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/editor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/editor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/WEB-INF/classes/controllers/EditorServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/WEB-INF/classes/controllers/EditorServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/WEB-INF/classes/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/WEB-INF/classes/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/editor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/OnlineEditorsExampleJava-1.0/editor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/settings.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\maven\repository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHLhmMOzjkR3OS4FAGHMgtLYjS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mylearn/demo/myOnlyOffice/onlyoffice" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.42">
+    <configuration name="EditorServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.EditorServlet" />
+      <module name="OnlineEditorsExampleJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.42" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="OnlineEditorsExampleJava:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/OnlineEditorsExampleJava_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_OnlineEditorsExampleJava_4" />
+        <option name="HTTP_PORT" value="10001" />
+        <option name="JNDI_PORT" value="2000" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51908" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OnlineEditorsExampleJava:war exploded" />
+          <artifact name="OnlineEditorsExampleJava:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EditorServlet" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.42" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EditorServlet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b1c2bde-2148-4012-a73c-806a4e20c126" name="Default Changelist" comment="" />
+      <created>1582594694060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582594694060</updated>
+      <workItem from="1582594696270" duration="22384000" />
+      <workItem from="1582698081246" duration="12501000" />
+      <workItem from="1582767120830" duration="7396000" />
+      <workItem from="1582853291612" duration="6109000" />
+      <workItem from="1582865460120" duration="7624000" />
+      <workItem from="1582880672884" duration="1761000" />
+      <workItem from="1583111629190" duration="24953000" />
+      <workItem from="1583285865679" duration="23190000" />
+      <workItem from="1583317027822" duration="1360000" />
+      <workItem from="1583370781638" duration="4833000" />
+      <workItem from="1583456882712" duration="585000" />
+      <workItem from="1583543416124" duration="1587000" />
+      <workItem from="1583716189083" duration="591000" />
+      <workItem from="1583889030692" duration="1195000" />
+      <workItem from="1584264902901" duration="257000" />
+      <workItem from="1584321019143" duration="238000" />
+      <workItem from="1584407417189" duration="2635000" />
+      <workItem from="1584580774452" duration="1732000" />
+      <workItem from="1584584667858" duration="620000" />
+      <workItem from="1584666944151" duration="1197000" />
+      <workItem from="1584862934213" duration="1222000" />
+      <workItem from="1584925909429" duration="746000" />
+      <workItem from="1585098534002" duration="577000" />
+      <workItem from="1585185203407" duration="3010000" />
+      <workItem from="1585357356166" duration="608000" />
+      <workItem from="1585530076146" duration="688000" />
+      <workItem from="1585616755742" duration="10994000" />
+      <workItem from="1585804050467" duration="6456000" />
+      <workItem from="1586251253321" duration="588000" />
+      <workItem from="1586252124901" duration="25023000" />
+      <workItem from="1586762669497" duration="4645000" />
+      <workItem from="1586920956600" duration="5085000" />
+      <workItem from="1587017784909" duration="18366000" />
+      <workItem from="1587342182484" duration="10452000" />
+      <workItem from="1587452636523" duration="2000" />
+      <workItem from="1587457325315" duration="949000" />
+      <workItem from="1587460188298" duration="1274000" />
+      <workItem from="1587464073275" duration="979000" />
+      <workItem from="1587525749677" duration="3810000" />
+      <workItem from="1588153894516" duration="1025000" />
+      <workItem from="1588814010360" duration="179000" />
+      <workItem from="1588814312368" duration="128000" />
+      <workItem from="1590387276794" duration="1026000" />
+      <workItem from="1590393671994" duration="1773000" />
+      <workItem from="1590472393980" duration="910000" />
+      <workItem from="1597905644930" duration="16422000" />
+      <workItem from="1598256489703" duration="10126000" />
+      <workItem from="1598317447578" duration="38436000" />
+      <workItem from="1598591581044" duration="6000" />
+      <workItem from="1652343280839" duration="215000" />
+      <workItem from="1654670725817" duration="1422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/scripts/javascript.js</url>
+          <line>200</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
